@@ -7,7 +7,7 @@ public class Main {
         // = != ==
         Scanner in = new Scanner(System.in);
 
-
+        int hdyht = 907;
 
 
         int num1 = in.nextInt();
