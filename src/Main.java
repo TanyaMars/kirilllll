@@ -6,8 +6,7 @@ public class Main {
     public static void main(String[] args) {
         // = != ==
         Scanner in = new Scanner(System.in);
-
-        int hdyht = 907;
+        //OMG
 
 
         int num1 = in.nextInt();
